@@ -1,7 +1,7 @@
 name: justasoul
 favicon: null
-layout_spectrum: 0.9335799873806536
-typography_spectrum: 0.4989375276491046
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.24263970297761261
-  lightness: 0.7172051453962922
-  saturation: 0.3463597325608134
-  rhythmicContrast: 0.22260249592363834
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
