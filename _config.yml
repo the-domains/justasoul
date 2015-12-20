@@ -1,0 +1,28 @@
+name: justasoul
+favicon: null
+layout_spectrum: 0.9335799873806536
+typography_spectrum: 0.4989375276491046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24263970297761261
+  lightness: 0.7172051453962922
+  saturation: 0.3463597325608134
+  rhythmicContrast: 0.22260249592363834
+purpose: []
